@@ -1,5 +1,3 @@
-# robust-portfolio-optimization
-Robust portfolio optimization on the Casablanca Stock Exchange (MASI). Combines Black-Litterman, Ledoit-Wolf shrinkage, endogenous EGARCH-M views, Hansen-Sargent Minimax control, PAC-Bayes generalization bounds, and adaptive online learning (FTRL).
 # Adaptive Portfolio Optimization (MASI)
 
 This repository contains the complete quantitative pipeline developed for the robust optimization of financial portfolios, applied to the Casablanca Stock Exchange (MASI) over the 2015-2026 period.
